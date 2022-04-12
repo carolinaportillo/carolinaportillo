@@ -1,10 +1,12 @@
 ![](https://user-images.githubusercontent.com/75656439/163063452-19848efd-3f19-41bc-bcc2-20d1da1830a2.png)
 
 
-  🌸 *Desarrollo Apis Rest utilizando Java como lenguaje principal* 
+  🌸 *Desarrollo Apis Rest utilizando Java como lenguaje principal*
+
   🌸 *Desde mis primeros pasos a la actualidad trabajé con java 8, 11 y 16*
   🌸 *Me interesa trabajar sobre proyectos que impliquen un desafío nuevo para mi*    
   🌸 *Actualmente me encuentro dando mis primeros pasos en cybersecurity estudiando de manera autodidacta*
+  
   🌸 *Me gustan mucho los animales pero sobre todo los perritos :)*  
   🌸 *Adoro comer ramen y el anime!*
 
