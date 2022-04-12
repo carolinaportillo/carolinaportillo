@@ -3,8 +3,7 @@
   🌸 *Desarrollo Apis Rest utilizando Java como lenguaje principal*    
   🌸 *Desde mis primeros pasos a la actualidad trabajé con java 8, 11 y 16*  
   🌸 *Me interesa trabajar sobre proyectos que impliquen un desafío nuevo para mi*  
-  🌸 *Actualmente me encuentro dando mis primeros pasos en cybersecurity estudiando de manera autodidacta*  
-  🌸 *Me gustan mucho los animales pero sobre todo los perritos*  
+  🌸 *Actualmente me encuentro dando mis primeros pasos en cybersecurity estudiando de manera autodidacta*   
   🌸 *Adoro comer ramen y el anime!*
 
 
